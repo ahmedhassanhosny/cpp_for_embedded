@@ -14,10 +14,11 @@ LDFLAGS = -Wl,-Map,$(PROJ_DIR)/$(OUT_FILE_NAME).map,--print-memory-usage
 build:
 		@echo "Building project at path $(PROJ_DIR)"
 		@$(CXX) $(CXXFLAGS) $(PROJ_DIR)/*.c* -o $(PROJ_DIR)/$(OUT_FILE_NAME).exe $(LDFLAGS)
+		@objdump -S --disassemble $(PROJ_DIR)/$(OUT_FILE_NAME).exe > $(PROJ_DIR)/$(OUT_FILE_NAME).asm
 		@echo "############# Done #############"
 clean:
 		@echo "Cleaning ....."
-		@rm -f $(PROJ_DIR)/*.exe $(PROJ_DIR)/*.o $(PROJ_DIR)/*.map
+		@rm -f $(PROJ_DIR)/*.exe $(PROJ_DIR)/*.o $(PROJ_DIR)/*.map $(PROJ_DIR)/*.asm
 		@echo "############# Done #############"
 
 rebuild: clean build 

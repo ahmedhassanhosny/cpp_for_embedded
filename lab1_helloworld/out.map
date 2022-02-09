@@ -1,17 +1,17 @@
 Archive member included to satisfy reference by file (symbol)
 
 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d005582.o)
-                              C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o (std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*))
+                              C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o (std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*))
 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d005463.o)
-                              C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o (std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&))
+                              C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o (std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&))
 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d005462.o)
-                              C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o (std::cout)
+                              C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o (std::cout)
 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d005165.o)
-                              C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o (std::ios_base::Init::~Init())
+                              C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o (std::ios_base::Init::~Init())
 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d005163.o)
-                              C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o (std::ios_base::Init::Init())
+                              C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o (std::ios_base::Init::Init())
 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d001896.o)
-                              C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o (std::ostream::operator<<(std::ostream& (*)(std::ostream&)))
+                              C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o (std::ostream::operator<<(std::ostream& (*)(std::ostream&)))
 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d000000.o)
                               C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d005582.o) (_head_libstdc___6_dll)
 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d006697.o)
@@ -185,8 +185,8 @@ Linker script and memory map
                 0x0000000000000160                __dll_characteristics__ = 0x160
 LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
 LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o
-LOAD C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
-LOAD C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+LOAD C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+LOAD C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
 LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a
 LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a
 LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libgcc_s.a
@@ -222,9 +222,9 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
  .text          0x0000000140001510       0x20 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o
                 0x0000000140001510                __gcc_register_frame
                 0x0000000140001520                __gcc_deregister_frame
- .text          0x0000000140001530       0x20 C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
+ .text          0x0000000140001530       0x20 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
                 0x0000000140001530                main
- .text          0x0000000140001550       0xc0 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .text          0x0000000140001550       0xc0 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
                 0x0000000140001550                print()
  .text          0x0000000140001610        0x8 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libstdc++.dll.a(d005582.o)
                 0x0000000140001610                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)
@@ -384,7 +384,7 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
                 0x0000000140002880        0x4 LONG 0xffffffffffffffff
                 0x0000000140002884        0x4 LONG 0xffffffffffffffff
  *(.ctors)
- .ctors         0x0000000140002888        0x8 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .ctors         0x0000000140002888        0x8 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  *(.ctor)
  *(SORT_BY_NAME(.ctors.*))
  .ctors.65535   0x0000000140002890        0x8 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtend.o
@@ -410,8 +410,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
  .data          0x0000000140003000       0x10 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
                 0x0000000140003000                __mingw_winmain_nShowCmd
  .data          0x0000000140003010        0x0 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o
- .data          0x0000000140003010        0x0 C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .data          0x0000000140003010        0x0 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .data          0x0000000140003010        0x0 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .data          0x0000000140003010        0x0 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .data          0x0000000140003010       0x10 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .data          0x0000000140003020       0x10 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
                 0x0000000140003020                __native_vcclrit_reason
@@ -499,7 +499,7 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
 
 .rdata          0x0000000140004000      0xc00
  *(.rdata)
- .rdata         0x0000000140004000       0x20 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .rdata         0x0000000140004000       0x20 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .rdata         0x0000000140004020       0x60 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlssup.o)
                 0x0000000140004020                __dyn_tls_init_callback
                 0x0000000140004040                _tls_used
@@ -516,11 +516,11 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
                 0x0000000140004370       0x10 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
                 0x0000000140004370                .refptr._MINGW_INSTALL_DEBUG_MATHERR
  .rdata$.refptr._ZSt4cout
-                0x0000000140004380       0x10 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+                0x0000000140004380       0x10 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
                 0x0000000140004380                __fu0__ZSt4cout
                 0x0000000140004380                .refptr._ZSt4cout
  .rdata$.refptr._ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
-                0x0000000140004390       0x10 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+                0x0000000140004390       0x10 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
                 0x0000000140004390                .refptr._ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
  .rdata$.refptr.__CTOR_LIST__
                 0x00000001400043a0       0x10 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
@@ -602,8 +602,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
                 0x0000000140004530                .refptr._newmode
  .rdata$zzz     0x0000000140004540       0x30 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
  .rdata$zzz     0x0000000140004570       0x30 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o
- .rdata$zzz     0x00000001400045a0       0x30 C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .rdata$zzz     0x00000001400045d0       0x30 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .rdata$zzz     0x00000001400045a0       0x30 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .rdata$zzz     0x00000001400045d0       0x30 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .rdata$zzz     0x0000000140004600       0x30 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .rdata$zzz     0x0000000140004630       0x30 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
  .rdata$zzz     0x0000000140004660       0x30 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-wildcard.o)
@@ -650,8 +650,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
  *(.pdata*)
  .pdata         0x0000000140005000       0x54 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
  .pdata         0x0000000140005054       0x18 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o
- .pdata         0x000000014000506c        0xc C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .pdata         0x0000000140005078       0x30 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .pdata         0x000000014000506c        0xc C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .pdata         0x0000000140005078       0x30 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .pdata         0x00000001400050a8       0x24 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .pdata         0x00000001400050cc        0xc C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-dllargv.o)
  .pdata         0x00000001400050d8       0x24 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlssup.o)
@@ -674,8 +674,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
  *(.xdata*)
  .xdata         0x0000000140006000       0x70 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
  .xdata         0x0000000140006070        0x8 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o
- .xdata         0x0000000140006078        0xc C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .xdata         0x0000000140006084       0x30 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .xdata         0x0000000140006078        0xc C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .xdata         0x0000000140006084       0x30 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .xdata         0x00000001400060b4       0x18 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .xdata         0x00000001400060cc        0x4 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-dllargv.o)
  .xdata         0x00000001400060d0       0x18 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlssup.o)
@@ -702,8 +702,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
                 0x0000000140007008                __mingw_winmain_lpCmdLine
                 0x0000000140007010                __mingw_winmain_hInstance
  .bss           0x0000000140007040        0x0 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o
- .bss           0x0000000140007040        0x0 C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .bss           0x0000000140007040       0x10 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .bss           0x0000000140007040        0x0 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .bss           0x0000000140007040       0x10 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .bss           0x0000000140007050       0x10 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .bss           0x0000000140007060       0x10 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
                 0x0000000140007060                __native_startup_lock
@@ -1126,9 +1126,9 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
  .debug_aranges
                 0x000000014000d000       0x30 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
  .debug_aranges
-                0x000000014000d030       0x30 C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
+                0x000000014000d030       0x30 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
  .debug_aranges
-                0x000000014000d060       0x30 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+                0x000000014000d060       0x30 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .debug_aranges
                 0x000000014000d090       0x30 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .debug_aranges
@@ -1196,8 +1196,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
 .debug_info     0x000000014000e000     0xd600
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x000000014000e000     0x2948 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
- .debug_info    0x0000000140010948       0x96 C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .debug_info    0x00000001400109de     0x2e44 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .debug_info    0x0000000140010948       0x96 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .debug_info    0x00000001400109de     0x2e44 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .debug_info    0x0000000140013822      0x571 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .debug_info    0x0000000140013d93      0x512 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
  .debug_info    0x00000001400142a5       0x83 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-wildcard.o)
@@ -1232,8 +1232,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
 .debug_abbrev   0x000000014001c000     0x2400
  *(.debug_abbrev)
  .debug_abbrev  0x000000014001c000      0x5a2 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
- .debug_abbrev  0x000000014001c5a2       0x4b C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .debug_abbrev  0x000000014001c5ed      0x4fd C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .debug_abbrev  0x000000014001c5a2       0x4b C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .debug_abbrev  0x000000014001c5ed      0x4fd C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .debug_abbrev  0x000000014001caea      0x13d C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .debug_abbrev  0x000000014001cc27       0xb4 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
  .debug_abbrev  0x000000014001ccdb       0x2e C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-wildcard.o)
@@ -1268,8 +1268,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
 .debug_line     0x000000014001f000     0x1e00
  *(.debug_line)
  .debug_line    0x000000014001f000      0x486 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
- .debug_line    0x000000014001f486       0x5c C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .debug_line    0x000000014001f4e2      0x11a C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .debug_line    0x000000014001f486       0x5c C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .debug_line    0x000000014001f4e2      0x11a C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .debug_line    0x000000014001f5fc      0x126 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .debug_line    0x000000014001f722       0x51 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
  .debug_line    0x000000014001f773       0x3a C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-wildcard.o)
@@ -1304,8 +1304,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
 .debug_frame    0x0000000140021000      0xe00
  *(.debug_frame*)
  .debug_frame   0x0000000140021000      0x1e8 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
- .debug_frame   0x00000001400211e8       0x50 C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .debug_frame   0x0000000140021238       0xf8 C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .debug_frame   0x00000001400211e8       0x50 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .debug_frame   0x0000000140021238       0xf8 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .debug_frame   0x0000000140021330       0xa8 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .debug_frame   0x00000001400213d8       0x30 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-dllargv.o)
  .debug_frame   0x0000000140021408       0xf0 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlssup.o)
@@ -1328,8 +1328,8 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
 .debug_str      0x0000000140022000      0x400
  *(.debug_str)
  .debug_str     0x0000000140022000      0x21f C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
- .debug_str     0x000000014002221f        0x0 C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
- .debug_str     0x000000014002221f       0x3a C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+ .debug_str     0x000000014002221f        0x0 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
+ .debug_str     0x000000014002221f       0x3a C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .debug_str     0x0000000140022259        0x0 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .debug_str     0x0000000140022259       0x18 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
  .debug_str     0x0000000140022271        0x0 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-wildcard.o)
@@ -1422,68 +1422,68 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
  *(.zdebug_addr)
 
 .debug_line_str
-                0x0000000140023000     0x3000
+                0x0000000140023000     0x2e00
  *(.debug_line_str)
  .debug_line_str
                 0x0000000140023000      0x2bf C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o
  .debug_line_str
-                0x00000001400232bf      0x1ec C:\Users\ahmed\AppData\Local\Temp\ccCevXr5.o
+                0x00000001400232bf       0xf3 C:\Users\ahmed\AppData\Local\Temp\cc6fnGlG.o
  .debug_line_str
-                0x00000001400234ab      0x45a C:\Users\ahmed\AppData\Local\Temp\ccyC0tsa.o
+                0x00000001400233b2      0x361 C:\Users\ahmed\AppData\Local\Temp\ccqMhzEV.o
  .debug_line_str
-                0x0000000140023905      0x18f C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
+                0x0000000140023713      0x18f C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-gccmain.o)
  .debug_line_str
-                0x0000000140023a94      0x1c7 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
+                0x00000001400238a2      0x1c7 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-natstart.o)
  .debug_line_str
-                0x0000000140023c5b      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-wildcard.o)
+                0x0000000140023a69      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-wildcard.o)
  .debug_line_str
-                0x0000000140023d8f      0x131 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-dllargv.o)
+                0x0000000140023b9d      0x131 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-dllargv.o)
  .debug_line_str
-                0x0000000140023ec0      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-_newmode.o)
+                0x0000000140023cce      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-_newmode.o)
  .debug_line_str
-                0x0000000140023ff4      0x19d C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlssup.o)
+                0x0000000140023e02      0x19d C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlssup.o)
  .debug_line_str
-                0x0000000140024191      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-xncommod.o)
+                0x0000000140023f9f      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-xncommod.o)
  .debug_line_str
-                0x00000001400242c5      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-cinitexe.o)
+                0x00000001400240d3      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-cinitexe.o)
  .debug_line_str
-                0x00000001400243f9      0x16c C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-merr.o)
+                0x0000000140024207      0x16c C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-merr.o)
  .debug_line_str
-                0x0000000140024565      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-CRT_fp10.o)
+                0x0000000140024373      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-CRT_fp10.o)
  .debug_line_str
-                0x0000000140024699      0x143 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-mingw_helpers.o)
+                0x00000001400244a7      0x143 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-mingw_helpers.o)
  .debug_line_str
-                0x00000001400247dc      0x1fe C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pseudo-reloc.o)
+                0x00000001400245ea      0x1fe C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pseudo-reloc.o)
  .debug_line_str
-                0x00000001400249da      0x179 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-usermatherr.o)
+                0x00000001400247e8      0x179 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-usermatherr.o)
  .debug_line_str
-                0x0000000140024b53      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-xtxtmode.o)
+                0x0000000140024961      0x134 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-xtxtmode.o)
  .debug_line_str
-                0x0000000140024c87      0x1c0 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt_handler.o)
+                0x0000000140024a95      0x1c0 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt_handler.o)
  .debug_line_str
-                0x0000000140024e47      0x1d4 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlsthrd.o)
+                0x0000000140024c55      0x1d4 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlsthrd.o)
  .debug_line_str
-                0x000000014002501b      0x131 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlsmcrt.o)
+                0x0000000140024e29      0x131 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-tlsmcrt.o)
  .debug_line_str
-                0x000000014002514c      0x14f C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pseudo-reloc-list.o)
+                0x0000000140024f5a      0x14f C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pseudo-reloc-list.o)
  .debug_line_str
-                0x000000014002529b      0x194 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+                0x00000001400250a9      0x194 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
  .debug_line_str
-                0x000000014002542f       0x60 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libgcc.a(_chkstk_ms.o)
+                0x000000014002523d       0x60 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libgcc.a(_chkstk_ms.o)
  .debug_line_str
-                0x000000014002548f      0x148 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libgcc.a(_ctors.o)
+                0x000000014002529d      0x148 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/libgcc.a(_ctors.o)
  .debug_line_str
-                0x00000001400255d7      0x146 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_matherr.o)
+                0x00000001400253e5      0x146 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_matherr.o)
  .debug_line_str
-                0x000000014002571d      0x13d C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_extra_a-__p__fmode.o)
+                0x000000014002552b      0x13d C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_extra_a-__p__fmode.o)
  .debug_line_str
-                0x000000014002585a      0x143 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_extra_a-__p__commode.o)
+                0x0000000140025668      0x143 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_extra_a-__p__commode.o)
  .debug_line_str
-                0x000000014002599d      0x140 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_extra_a-__p__acmdln.o)
+                0x00000001400257ab      0x140 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_extra_a-__p__acmdln.o)
  .debug_line_str
-                0x0000000140025add      0x214 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_extra_a-invalid_parameter_handler.o)
+                0x00000001400258eb      0x214 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_extra_a-invalid_parameter_handler.o)
  .debug_line_str
-                0x0000000140025cf1      0x186 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_common_a-acrt_iob_func.o)
+                0x0000000140025aff      0x186 C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(lib64_libmsvcrt_common_a-acrt_iob_func.o)
 
 .zdebug_line_str
  *(.zdebug_line_str)
@@ -1558,7 +1558,7 @@ LOAD C:/Users/ahmed/Documents/msys/msys64/mingw64/bin/../lib/gcc/x86_64-w64-ming
 
 .zdebug_gdb_scripts
  *(.zdebug_gdb_scripts)
-OUTPUT(c:/Users/ahmed/Documents/ITI_9Month_Diploma/Technical/7.C++_for_Embedded/WorkSpace/lab1_helloworld/out.exe pei-x86-64)
+OUTPUT(lab1_helloworld/out.exe pei-x86-64)
 LOAD rtr000000.o
 LOAD ertr000001.o
 LOAD dll stuff

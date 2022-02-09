@@ -1,5 +1,11 @@
-make.exe run PROJ_NAME=${fileDirname} -f C:\Users\ahmed\Documents\ITI_9Month_Diploma\Technical\7.C++_for_Embedded\WorkSpace\Makefile --dry-run --keep-going --print-directory
-make: Entering directory '/c/Users/ahmed/Documents/ITI_9Month_Diploma/Technical/7.C++_for_Embedded/WorkSpace'
-ileDirname/out.exe
-make: Leaving directory '/c/Users/ahmed/Documents/ITI_9Month_Diploma/Technical/7.C++_for_Embedded/WorkSpace'
+make.exe -f C:\Users\ahmed\Documents\ITI_9Month_Diploma\Technical\7.C++_for_Embedded\WorkSpace\Makefile --dry-run --keep-going --print-directory
+make: Entering directory '/c/Users/ahmed/Documents/ITI_9Month_Diploma/Technical/7.C++_for_Embedded/Assignment'
+ 
+make: C:\Users\ahmed\Documents\ITI_9Month_Diploma\Technical\7.C++_for_Embedded\WorkSpace\Makefile: Not a directory
+ 
+make: *** No rule to make target 'C:\Users\ahmed\Documents\ITI_9Month_Diploma\Technical\7.C++_for_Embedded\WorkSpace\Makefile'.
+make: Failed to remake makefile 'C:\Users\ahmed\Documents\ITI_9Month_Diploma\Technical\7.C++_for_Embedded\WorkSpace\Makefile'.
+make: *** No targets specified and no makefile found.  Stop.
+ 
+make: Leaving directory '/c/Users/ahmed/Documents/ITI_9Month_Diploma/Technical/7.C++_for_Embedded/Assignment'
  
